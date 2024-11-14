@@ -29,6 +29,16 @@ EasyReNamer is available as an **installable setup file**! Just download the set
 
 ---
 
+---
+#### Home Screen
+![Home Screen](Screenshots/EasyReNamer by Hasindu - 07.png)
+
+#### Light and Dark Mode
+![Dark Mode](Screenshots/dark_mode.png)
+
+#### File Preview
+![File Preview](Screenshots/rename_preview.png)
+
 #### 🎉 Why Choose EasyReNamer? 
 - **⏳ Saves Time**: Automate repetitive renaming tasks.
 - **🔧 Fully Customizable**: Adjust filenames to fit your unique organizational needs.
