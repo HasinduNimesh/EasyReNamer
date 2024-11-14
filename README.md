@@ -31,13 +31,13 @@ EasyReNamer is available as an **installable setup file**! Just download the set
 
 ---
 #### Home Screen
-![Home Screen](Screenshots/EasyReNamer by Hasindu - 07.png)
+![Home Screen](Screenshots/EasyReNamer07.png)
 
 #### Light and Dark Mode
-![Dark Mode](Screenshots/dark_mode.png)
+![Dark Mode](Screenshots/EasyReNamer08.png)
 
 #### File Preview
-![File Preview](Screenshots/rename_preview.png)
+![File Preview](Screenshots/EasyReNamer13.png)
 
 #### 🎉 Why Choose EasyReNamer? 
 - **⏳ Saves Time**: Automate repetitive renaming tasks.
