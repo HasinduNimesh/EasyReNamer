@@ -29,7 +29,6 @@ EasyReNamer is available as an **installable setup file**! Just download the set
 
 ---
 
----
 #### Home Screen
 ![Home Screen](Screenshots/EasyReNamer07.png)
 
@@ -38,6 +37,8 @@ EasyReNamer is available as an **installable setup file**! Just download the set
 
 #### File Preview
 ![File Preview](Screenshots/EasyReNamer13.png)
+
+---
 
 #### 🎉 Why Choose EasyReNamer? 
 - **⏳ Saves Time**: Automate repetitive renaming tasks.
